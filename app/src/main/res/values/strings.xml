@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Team1</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login1">LOGIN</string>
+    <string name="menubar">menubar</string>
+    <string name="welcome">WELCOME</string>
+
+    //nasgor
+
+    <string name="nasgor">Nasi
+\nMinyak Goreng
+\nTelur
+\nKecap Manis
+\nKecap Asin
+\nTelur dan Garam</string>
+    <string name="NasgorDesc">Panaskan minyak
+\nTumis bumbu dan bahan
+\nTambahkan telur
+\nMasukkan nasi
+\nMasukkan kecap manis,kecap asin dan tambahkan garam sesuai selera
+\nNasi Goreng Siap disajikan</string>
+
+    //ramen
+
+    <string name="ramen">Mie Ramen
+\nKaldu
+\nBumbu Tambahan</string>
+
+    <string name="RamenDesc">Rebus Mie Ramen
+\nSiapkan Kaldu
+\nSiapkan Bumbu kemudian tumis
+\nTuangkan Kaldu,Mie,dan bumbu kedalam wadah
+\nRamen Siap disajikan!</string>
+
+    //Fish N Chips
+
+    <string name="fishnchips">Fillet ikan
+\nWater
+\nTepung Terigu
+\nTelur
+\nGaram
+\Kentang
+\Minyak Goreng</string>
+    <string name="FishDesc">Bersihkan dan keringkan filet ikan.
+Campur tepung terigu, baking powder, garam, dan merica.
+Kocok telur dan campur dengan air.
+Celupkan filet ikan ke dalam campuran tepung, lalu telur, dan kembali ke tepung.
+Goreng hingga kecokelatan dan matang. Tiriskan.
+\nKupas dan potong kentang menjadi kentang goreng.
+Goreng kentang hingga kecokelatan dan renyah. Tiriskan dan beri garam.
+\nFishNChips siap disajikan!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
